@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Form = () => {
+const Form = () => {  
   return (
     <form>
         <input type="text" className='todo-input'/>
