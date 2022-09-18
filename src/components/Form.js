@@ -12,7 +12,7 @@ const Form = () => {
                 <option value="all">All</option>
                 <option value="completed">completed</option>
                 <option value="uncompleted">uncompleted</option>
-            </select>
+            </select>  
         </div>
     </form>
   );
