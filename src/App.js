@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <h1>React Todo App</h1>
       </header>
-      <Form />
+      <Form setInputText={setInputText} />
       <TodoList />
     </div>
   );
